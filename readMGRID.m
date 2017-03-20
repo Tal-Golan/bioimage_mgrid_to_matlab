@@ -1,5 +1,6 @@
 function mgridData=readMGRID(filename)
-% reads BioImage MGRID file
+% reads BioImage Suite MGRID file into a Matlab struct
+% currently keeps most data as strings
 
 % Tal Golan @ Malach Lab, 2017
 mgridData=struct;

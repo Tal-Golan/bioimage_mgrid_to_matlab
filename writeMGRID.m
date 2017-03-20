@@ -1,5 +1,5 @@
 function writeMGRID(filename,mgridData)
-% writes BioImage MGRID file from struct mgridData produced by readMGRID.m
+% writes BioImage Suite MGRID file from struct mgridData produced by readMGRID.m
 
 % Tal Golan @ Malach Lab, 2017
 
