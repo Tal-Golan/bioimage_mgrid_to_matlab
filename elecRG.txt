@@ -1,0 +1,36 @@
+#- - - - - - - - - - - - - - - - - - -
+# Electrode (\d+) (\d+)
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 ([^#]*)
+#Position
+ ([^#]*)
+#Normal
+ ([^#]*)
+#Motor Function
+([^#]*)
+#Sensory Function
+([^#]*)
+#Visual Function
+([^#]*)
+#Language Function
+([^#]*)
+#Auditory Function
+([^#]*)
+#User1 Function
+([^#]*)
+#User2 Function
+([^#]*)
+#Seizure Onset
+([^#]*)
+#Spikes Present
+([^#]*)
+#Electrode Present
+([^#]*)
+#Electrode Type
+([^#]*)
+#Radius 
+([^#]*)
+#Thickeness
+([^#]*)
+#Values
+([^#]*)

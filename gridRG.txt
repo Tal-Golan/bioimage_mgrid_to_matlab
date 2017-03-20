@@ -1,0 +1,18 @@
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid (\d+)
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource ([^#]*)
+#Description
+([^#]*)
+#Dimensions
+ ([^#]*)
+#Electrode Spacing
+ ([^#]*)
+#Electrode Type
+([^#]*)
+#Radius 
+([^#]*)
+#Thickeness
+([^#]*)
+#Color
+([^#]*)
